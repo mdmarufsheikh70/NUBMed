@@ -220,14 +220,27 @@ We welcome contributions! Please feel free to submit pull requests or open issue
 6. Open a Pull Request
 
 ---
+## 🙌 Credits
 
-## 📞 Support & Contact
+- Abir Al Murad  
+- Md. Maruf Sheikh  
+- Md. Pial Hossain
+  
+---
 
-For support, bug reports, or feature requests:
+## 📞 For Support, Bug Reports, or Feature Requests
 
-- 📧 **Email:** [abiralmuradnub@gmail.com](mailto:abiralmuradnub@gmail.com)
-- 🐛 **GitHub Issues:** [Create an issue](https://github.com/Abir-Al-Murad/NUBMED-Hospital-Management-System-/issues)
-- 💬 **Discord:** Join our community (Link coming soon)
+- 📧 **Email:**
+  - [abiralmuradnub@gmail.com](mailto:abiralmuradnub@gmail.com)  
+  - [pial.nub.ac@gmail.com](mailto:pial.nub.ac@gmail.com)  
+  - [mdmarufsheikh707@gmail.com](mailto:mdmarufsheikh707@gmail.com)
+
+- 🐛 **GitHub Issues:**  
+  [Create an issue](https://github.com/Abir-Al-Murad/NUBMED-Hospital-Management-System-/issues)
+
+- 💬 **Discord:**  
+  Join our community *(Link coming soon)*
+
 
 ---
 
@@ -285,7 +298,5 @@ If you find this project useful, please consider giving it a star!
 ---
 
 **Last Updated:** September 2025 | **Version:** 1.1.2
-
-*Made with ❤️ by [Abir Al Murad](https://github.com/Abir-Al-Murad)*
 
 
