@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268901918998",
+    "project_id": "nubmed-1ab30",
+    "storage_bucket": "nubmed-1ab30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268901918998:android:565a74fc55b180f5098837",
+        "android_client_info": {
+          "package_name": "com.example.nubmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulrpNhV2K0EosKF_9SN3RloxkjzO8yBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
